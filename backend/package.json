@@ -1,0 +1,24 @@
+{
+  "name": "book-buddy-api",
+  "version": "1.0.0",
+  "description": "Basic API using best practices",
+  "keywords": [
+    "book buddy",
+    "node",
+    "typescript"
+  ],
+  "author": {
+    "email": "pedro.dev.oliveira@gmail.com",
+    "name": "Pedro Oliveira",
+    "url": "https://github.com/PedroDevOliveira"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PedroDevOliveira/Book-Buddy.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "license": "MIT"
+}
